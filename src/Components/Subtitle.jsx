@@ -1,7 +1,6 @@
-import './Subtitle.css'
 
 function Subtitle() {
-   return (<p>Subtitle comes here</p>)
+   return (<h2>Aspiring Full Stack Software Engineer</h2>)
 }
 
 export default Subtitle

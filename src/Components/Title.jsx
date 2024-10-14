@@ -1,7 +1,6 @@
-import './Title.css'
 
 function Title() {
-   return (<p>Title comes here</p>)
+   return (<h1>Rahul Deka</h1>)
 }
 
 export default Title
