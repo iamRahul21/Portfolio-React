@@ -1,6 +1,7 @@
 import './Body.css'
 import Burger from './Burger'
 import Navbar from './Navbar'
+import CustomCursor from './CustomCursor';
 import Title from './Title'
 import Subtitle from './Subtitle'
 import Icons from './Icons'
@@ -11,6 +12,7 @@ function Body() {
         <>
             <Burger />
             <Navbar />
+            <CustomCursor />
             <main>
                 <div className='splash-container'>
                     <div className='splash'>
